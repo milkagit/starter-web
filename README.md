@@ -15,3 +15,6 @@ Providing simple examples for training purposes
 This is a simple webproject
 
 ## How to contribute
+
+### Copyright 
+20202 Git. Training
