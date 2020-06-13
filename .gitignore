@@ -1,1 +1,11 @@
 *.log
+*.orig
+
+simple_BACKUP_1135.html
+simple_BACKUP_1205.html
+simple_BASE_1135.html
+simple_BASE_1205.html
+simple_LOCAL_1135.html
+simple_LOCAL_1205.html
+simple_REMOTE_1135.html
+simple_REMOTE_1205.html
