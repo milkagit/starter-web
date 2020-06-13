@@ -16,5 +16,7 @@ This is a simple webproject
 
 ## How to contribute
 
+Please fork this repository and then issue a pull request for a review
+
 ### Copyright 
 20202 Git. Training
